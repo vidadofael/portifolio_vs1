@@ -1,0 +1,32 @@
+.container .sobre__mim {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Raleway', sans-serif;
+    background-color: #EAF2FD;
+}
+
+.sobre__mim {
+}
+
+.sobre__mim-titulo {
+    width: 75vw;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.titulo__sobre {
+    font-size: 32px;
+    font-weight: 700;
+    color: #464646;
+    padding: 3rem 0;
+}
+
+.paragrafo__sobre {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.imagem__sobre {
+    padding-bottom: 3rem;
+}
