@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500&display=swap');
+/*font-family: 'Raleway', sans-serif;*/
+
+.container .topo {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Raleway', sans-serif;
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+    background-color: #F5F5F5;
+    
+}

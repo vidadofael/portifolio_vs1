@@ -1,0 +1,8 @@
+.container .principal {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 4.5rem;
+    align-items: center;
+    color: #464646;
+    background-color: #F5F5F5;
+}
