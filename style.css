@@ -1,0 +1,28 @@
+.sub_middle {
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #464646;
+    padding-left: .5rem;
+}
+
+.p_middle {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-size: 500;
+    color: #464646;
+    padding-left: .5rem;
+    padding-bottom: 1rem;
+    
+}
+
+.titulo__text {
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: #464646;
+    padding-top: 2rem;
+}
